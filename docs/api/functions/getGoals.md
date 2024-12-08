@@ -24,4 +24,4 @@
 
 ## Defined in
 
-[packages/core/src/goals.ts:8](https://github.com/ai16z/eliza/blob/main/packages/core/src/goals.ts#L8)
+[packages/core/src/goals.ts:8](https://github.com/NeelClaudel/shibo-eliza1.5/blob/main/packages/core/src/goals.ts#L8)

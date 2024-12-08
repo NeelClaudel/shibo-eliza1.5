@@ -24,4 +24,4 @@ Add the embedding configuration
 
 ## Defined in
 
-[packages/core/src/embedding.ts:18](https://github.com/ai16z/eliza/blob/main/packages/core/src/embedding.ts#L18)
+[packages/core/src/embedding.ts:18](https://github.com/NeelClaudel/shibo-eliza1.5/blob/main/packages/core/src/embedding.ts#L18)
